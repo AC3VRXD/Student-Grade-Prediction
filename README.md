@@ -1,4 +1,4 @@
-# Linear-Regression-and-XGBoost
+# Student Grade Prediction
 Predicting student grades based on certain parameters
 The parameters included are:
 1.Mother's education(numerical
